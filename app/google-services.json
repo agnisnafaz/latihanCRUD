@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "196575912802",
+    "project_id": "latihancrud-40837",
+    "storage_bucket": "latihancrud-40837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196575912802:android:11e53b3dd550cd65ccc23b",
+        "android_client_info": {
+          "package_name": "com.example.latihancrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196575912802-oqdmpsp0dr3lsavh2siaheg68ed30uba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latihancrud",
+            "certificate_hash": "9b2c48d3f1165460bc051d89591983b2409ab45a"
+          }
+        },
+        {
+          "client_id": "196575912802-ughjqs6i624lg0lhk1lgo3areei4tdme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBekTxqvcSVPqm91KvHT8CHNNHjPrIhySk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196575912802-ughjqs6i624lg0lhk1lgo3areei4tdme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
